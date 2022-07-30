@@ -122,5 +122,3 @@ python3(python) scripts\kml2polyline.py
 
 - @[yihong0618](https://github.com/yihong0618) for Awesome [running_page](https://github.com/yihong0618/running_page) , Great Thanks
 - @[ben-29](https://github.com/ben-29) for Awesome [running_page](https://github.com/ben-29/workouts_page) , Great Thanks
-
-# workouts_page
