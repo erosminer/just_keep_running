@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: '/', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Just Keep Runing',
-    siteUrl: 'https://wheat.cau.edu.cn/xiexm',
+    siteUrl: 'http://wheat.cau.edu.cn/xiexm',
     logo: 'http://wheat.cau.edu.cn/xiexm/img/logo.jpeg',
     description: 'Personal site',
     navLinks: [
