@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://wheat.cau.edu.cn/sitemap/sitemap-index.xml
+Host: wheat.cau.edu.cn
